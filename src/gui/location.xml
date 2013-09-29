@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : location.xml
+    Version    : $Id: location.xml,v 1.8 2006/02/18 20:10:59 fc Exp $
+-->
+
+<location>
+  <zone name="United States">
+      <area name="North East">
+        <site>
+          <name>Albany, NY</name>
+          <latitude>N42:40</latitude>
+          <longitude>W73:47</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Baltimore, MD</name>
+          <latitude>N39:17</latitude>
+          <longitude>W76:36:37</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Bangor, ME</name>
+          <latitude>N44:50</latitude>
+          <longitude>W68:47</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Boston, MA</name>
+          <latitude>N42:20:39</latitude>
+          <longitude>W71:03:15</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Bufallo, NY</name>
+          <latitude>N42:52</latitude>
+          <longitude>W78:55</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Burlington, VT</name>
+          <latitude>N44:29:17</latitude>
+          <longitude>W73:13:32</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Hartford, CT</name>
+          <latitude>N41:46</latitude>
+          <longitude>W72:41</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>New York, NY</name>
+          <latitude>N40:46:53</latitude>
+          <longitude>W73:56:51</longitude>
+          <TZ>America/New_York</TZ>
+        </site>
+        <site>
+          <name>Manchester, NH</name>
+          <latitude>N42:59</latitude>
+          <longitude>W71:28</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Philadelphia, PA</name>
+          <latitude>N39:57:08</latitude>
+          <longitude>W75:09:54</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Pittsburgh, PA</name>
+          <latitude>N40:26</latitude>
+          <longitude>W80:00</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Portland, ME</name>
+          <latitude>N43:40:17</latitude>
+          <longitude>W70:17:05</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Providence, RI</name>
+          <latitude>N41:49:12</latitude>
+          <longitude>W71:24:55</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Rochester, NY</name>
+          <latitude>N43:12</latitude>
+          <longitude>W77:37</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Washington, DC</name>
+          <latitude>N38:54:18</latitude>
+          <longitude>W77:00:57</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+      </area>
+      <area name="South">
+          <site>
+          <name>Atlanta, GA</name>
+          <latitude>N33:45:47</latitude>
+          <longitude>W84:25:21</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Charlotte, NC</name>
+          <latitude>N35:11:52</latitude>
+          <longitude>W80:50:03</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Columbia, SC</name>
+          <latitude>N34:01</latitude>
+          <longitude>W81:00</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Jacksonville, FL</name>
+          <latitude>N30:20</latitude>
+          <longitude>W81:40</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Miami, FL</name>
+          <latitude>N25:46:35</latitude>
+          <longitude>W80:11:21</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Orlando, FL</name>
+          <latitude>N28:30</latitude>
+          <longitude>W81:22</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Richmond, VA</name>
+          <latitude>N37:32</latitude>
+          <longitude>W77:28</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+      </area>
+      <area name="Midwest">
+       <site>
+          <name>Chicago, IL</name>
+          <latitude>N41:53:18</latitude>
+          <longitude>W87:37:27</longitude>
+          <TZ>America/Chicago</TZ>
+        </site>
+        <site>
+          <name>Cincinnatti, OH</name>
+          <latitude>N39:06</latitude>
+          <longitude>W84:31</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Cleveland, OH</name>
+          <latitude>N41:30</latitude>
+          <longitude>W81:41</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Detroit, MI</name>
+          <latitude>N42:23</latitude>
+          <longitude>W83:05</longitude>
+          <TZ>US/Eastern</TZ>
+        </site>
+        <site>
+          <name>Indianapolis, IN</name>
+          <latitude>N39:46</latitude>
+          <longitude>W86:10</longitude>
+          <TZ>US/East-Indiana</TZ>
+        </site>
+        <site>
+          <name>St Louis, MO</name>
+          <latitude>N38:38:10</latitude>
+          <longitude>W90:14:40</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+        <site>
+          <name>Springfield, IL</name>
+          <latitude>N39:47:58</latitude>
+          <longitude>W89:38:52</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+      </area>
+      <area name="Central">
+        <site>
+          <name>Dallas, TX</name>
+          <latitude>N32:47:40</latitude>
+          <longitude>W96:45:56</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+        <site>
+          <name>Denver, CO</name>
+          <latitude>N39:46:05</latitude>
+          <longitude>W104:52:51</longitude>
+          <TZ>America/Denver</TZ>
+        </site>
+        <site>
+          <name>Houston, TX</name>
+          <latitude>N29:49:00</latitude>
+          <longitude>W95:23:00</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+        <site>
+          <name>Minneapolis, MN</name>
+          <latitude>N44:57:42</latitude>
+          <longitude>W93:16:01</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+        <site>
+          <name>New Orleans, LA</name>
+          <latitude>N29:56:46</latitude>
+          <longitude>W90:04:46</longitude>
+          <TZ>US/Central</TZ>
+        </site>
+      </area>
+      <area name="West">
+        <site>
+          <name>Anchorage, AK</name>
+          <latitude>N61:12:17</latitude>
+          <longitude>W149:51:23</longitude>
+          <TZ>America/Anchorage</TZ>
+        </site>
+        <site>
+          <name>Honolulu, HI</name>
+          <latitude>N21:18:39</latitude>
+          <longitude>W157:51:45</longitude>
+          <TZ>US/Hawaii</TZ>
+        </site>
+        <site>
+          <name>Los Angeles, CA</name>
+          <latitude>N34:06:45</latitude>
+          <longitude>W118:24:49</longitude>
+          <TZ>America/Los_Angeles</TZ>
+        </site>
+        <site>
+          <name>Las Vegas, NV</name>
+          <latitude>N36:10</latitude>
+          <longitude>W115:10</longitude>
+          <TZ>US/Pacific</TZ>
+        </site>
+        <site>
+          <name>Phoenix, AZ</name>
+          <latitude>N33:32:29</latitude>
+          <longitude>W112:04:17</longitude>
+          <TZ>America/Phoenix</TZ>
+        </site>
+        <site>
+          <name>Portland, OR</name>
+          <latitude>N45:31</latitude>
+          <longitude>W122:39</longitude>
+          <TZ>US/pacific</TZ>
+        </site>
+        <site>
+          <name>Salt Lake City, UT</name>
+          <latitude>N40:46</latitude>
+          <longitude>W111:52</longitude>
+          <TZ>US/Mountain</TZ>
+        </site>
+        <site>
+          <name>San Diego, CA</name>
+          <latitude>N32:43</latitude>
+          <longitude>W117:09</longitude>
+          <TZ>US/Pacific</TZ>
+        </site>
+        <site>
+          <name>San Francisco, CA</name>
+          <latitude>N37:45:46</latitude>
+          <longitude>W122:26:14</longitude>
+          <TZ>US/Pacific</TZ>
+        </site>
+        <site>
+          <name>Seattle, WA</name>
+          <latitude>N47:37:13</latitude>
+          <longitude>W122:21:07</longitude>
+          <TZ>US/Pacific</TZ>
+        </site>
+      </area>
+  </zone>
+  <area name="Canada">
+    <site>
+      <name>Calgary, AB</name>
+      <latitude>N51:05</latitude>
+      <longitude>W114:05</longitude>
+      <TZ>America/Edmonton</TZ>
+    </site>
+    <site>
+      <name>Edmonton, AB</name>
+      <latitude>N53:34</latitude>
+      <longitude>W113:25</longitude>
+      <TZ>America/Edmonton</TZ>
+    </site>
+    <site>
+      <name>Halifax, NS</name>
+      <latitude>N44:39:24</latitude>
+      <longitude>W63:36:20</longitude>
+      <TZ>America/Halifax</TZ>
+    </site>
+    <site>
+      <name>Montreal, QC</name>
+      <latitude>N45:30</latitude>
+      <longitude>W73:35</longitude>
+      <TZ>America/Montreal</TZ>
+    </site>
+    <site>
+      <name>Ottawa, ON</name>
+      <latitude>N45:25</latitude>
+      <longitude>W75:43</longitude>
+      <TZ>Canada/Eastern</TZ>
+    </site>
+    <site>
+      <name>Québec, QC</name>
+      <latitude>N46:50</latitude>
+      <longitude>W71:15</longitude>
+      <TZ>Canada/Eastern</TZ>
+    </site>
+    <site>
+      <name>St John's, NL</name>
+      <latitude>N47:33:36</latitude>
+      <longitude>W52:43:43</longitude>
+      <TZ>America/St_Johns</TZ>
+    </site>
+    <site>
+      <name>Toronto, ON</name>
+      <latitude>N43:40</latitude>
+      <longitude>W79:22</longitude>
+      <TZ>Canada/Eastern</TZ>
+    </site>
+    <site>
+      <name>Vancouver, BC</name>
+      <latitude>N49:13</latitude>
+      <longitude>W123:06</longitude>
+      <TZ>America/Vancouver</TZ>
+    </site>
+    <site>
+      <name>Whitehorse, YT</name>
+      <latitude>N60:41</latitude>
+      <longitude>W135:08</longitude>
+      <TZ>Canada/Pacific</TZ>
+    </site>
+    <site>
+      <name>Winnipeg, MB</name>
+      <latitude>N49:53</latitude>
+      <longitude>W97:10</longitude>
+      <TZ>Canada/Central</TZ>
+    </site>
+  </area>
+  <zone name="Australasia &amp; Pacific">
+      <area name="Australia">
+        <site>
+          <name>Adelaide, SA</name>
+          <latitude>S35:55:28</latitude>
+          <longitude>E138:33:49</longitude>
+          <TZ>Australia/Adelaide</TZ>
+        </site>
+        <site>
+          <name>Brisbane, Qld</name>
+          <latitude>S27:29:41</latitude>
+          <longitude>E153:02:16</longitude>
+          <TZ>Australia/Brisbane</TZ>
+        </site>
+        <site>
+          <name>Cairns, Qld</name>
+          <latitude>S16:51</latitude>
+          <longitude>E145:43</longitude>
+          <TZ>Australia/Brisbane</TZ>
+        </site>
+        <site>
+          <name>Melbourne, Vic</name>
+          <latitude>S37:47:33</latitude>
+          <longitude>E144:57:24</longitude>
+          <TZ>Australia/Melbourne</TZ>
+        </site>
+        <site>
+          <name>Perth, WA</name>
+          <latitude>S31:57:31</latitude>
+          <longitude>E115:49:14</longitude>
+          <TZ>Australia/Perth</TZ>
+        </site>
+        <site>
+          <name>Sydney, NSW</name>
+          <latitude>S33:53:19</latitude>
+          <longitude>E151:13:49</longitude>
+          <TZ>Australia/Sydney</TZ>
+        </site>
+      </area>
+      <area name="New Zealand">
+        <site>
+          <name>Auckland, NZ</name>
+          <latitude>S36:52:00</latitude>
+          <longitude>E174:36:00</longitude>
+          <TZ>Pacific/Auckland</TZ>
+        </site>
+        <site>
+          <name>Christchurch, NZ</name>
+          <latitude>S44:33</latitude>
+          <longitude>E172:40</longitude>
+          <TZ>Pacific/Auckland</TZ>
+        </site>
+        <site>
+          <name>Wellington, NZ</name>
+          <latitude>S41:17</latitude>
+          <longitude>E174:47</longitude>
+          <TZ>Pacific/Auckland</TZ>
+        </site>      
+      </area>
+      <area name="Pacific">
+        <site>
+          <name>Papeete, Tahiti</name>
+          <latitude>S17:32</latitude>
+          <longitude>W149:34</longitude>
+          <TZ>Pacific/Tahiti</TZ>
+        </site>
+        <site>
+          <name>Suva, Fiji</name>
+          <latitude>S18:08</latitude>
+          <longitude>E178:25</longitude>
+          <TZ>Pacific/Fiji</TZ>
+        </site>
+          
+      </area>
+  </zone>
+  <zone name="Europe">
+      <area name="United Kingdom">
+      <site>
+         <name>Belfast, N Ireland</name>
+         <latitude>N54:35:46</latitude>
+         <longitude>W5:54:57</longitude>
+         <TZ>Europe/Belfast</TZ>
+      </site>
+      <site>
+         <name>Birmingham, UK</name>
+         <latitude>N52:29</latitude>
+         <longitude>W1:54</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>Bristol, UK</name>
+         <latitude>N51:26</latitude>
+         <longitude>W2:35</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>Glasgow, UK</name>
+         <latitude>N55:52</latitude>
+         <longitude>W4:15</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>London, UK</name>
+         <latitude>N51:30:47</latitude>
+         <longitude>W0:03:58</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+          <name>Manchester, UK</name>
+          <latitude>N53:30</latitude>
+          <longitude>W2:15</longitude>
+          <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>Newcastle, UK</name>
+         <latitude>N54:59</latitude>
+         <longitude>W1:54</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>Norwich, UK</name>
+         <latitude>N52:37</latitude>
+         <longitude>E1:18</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+      <site>
+         <name>Plymouth, UK</name>
+         <latitude>N50:23</latitude>
+         <longitude>W4:09</longitude>
+         <TZ>Europe/London</TZ>
+      </site>
+  </area>
+      <area name="West">
+        <site>
+          <name>Amsterdam, Netherlands</name>
+          <latitude>N52:20</latitude>
+          <longitude>E4:52</longitude>
+          <TZ>Europe/Amsterdam</TZ>
+        </site>
+        <site>
+          <name>Berlin, Germany</name>
+          <latitude>N52:31</latitude>
+          <longitude>E13:20</longitude>
+          <TZ>Europe/Berlin</TZ>
+        </site>
+        <site>
+          <name>Brussels, Belgium</name>
+          <latitude>N50:52</latitude>
+          <longitude>E4:21</longitude>
+          <TZ>CET</TZ>
+        </site>
+        <site>
+          <name>Clermont-Fd, France</name>
+          <latitude>N45:46:28</latitude>
+          <longitude>E3:05:43</longitude>
+          <TZ>Europe/Paris</TZ>
+        </site>
+        <site>
+          <name>Copenhagen, Denmark</name>
+          <latitude>N55:43</latitude>
+          <longitude>E12:34</longitude>
+          <TZ>CET</TZ>
+        </site>
+        <site>
+          <name>Dublin, Ireland</name>
+          <latitude>N53:26</latitude>
+          <longitude>W6:15</longitude>
+          <TZ>Europe/Dublin</TZ>
+        </site>
+        <site>
+          <name>Geneva, Switzerland</name>
+          <latitude>N46:14</latitude>
+          <longitude>E6:04</longitude>
+          <TZ>Europe/Zurich</TZ>
+        </site>
+        <site>
+          <name>Hamburg, Germany</name>
+          <latitude>N53:33</latitude>
+          <longitude>E10:01</longitude>
+          <TZ>CET</TZ>
+        </site>
+        <site>
+          <name>Lisbon, Portugal</name>
+          <latitude>N38:42</latitude>
+          <longitude>W9:05</longitude>
+          <TZ>Europe/Lisbon</TZ>
+        </site>
+        <site>
+          <name>Lyon, France</name>
+          <latitude>N45:46</latitude>
+          <longitude>E4:50</longitude>
+          <TZ>Europe/Paris</TZ>
+        </site>
+        <site>
+          <name>Madrid, Spain</name>
+          <latitude>N40:26</latitude>
+          <longitude>W3:42</longitude>
+          <TZ>Europe/Madrid</TZ>
+        </site>
+        <site>
+          <name>Munich, Germany</name>
+          <latitude>N48:08</latitude>
+          <longitude>E11:35</longitude>
+          <TZ>CET</TZ>
+        </site>
+        <site>
+          <name>Oslo, Norway</name>
+          <latitude>N59:56</latitude>
+          <longitude>E10:41</longitude>
+          <TZ>Europe/Oslo</TZ>
+        </site>
+        <site>
+          <name>Paris, France</name>
+          <latitude>N48:51</latitude>
+          <longitude>E2:20</longitude>
+          <TZ>Europe/Paris</TZ>
+        </site>
+        <site>
+          <name>Reykjavik, Iceland</name>
+          <latitude>N64:07:47</latitude>
+          <longitude>W21:56:13</longitude>
+          <TZ>GMT</TZ>
+        </site>
+        <site>
+          <name>Rome, Italy</name>
+          <latitude>N42:53</latitude>
+          <longitude>E12:37</longitude>
+          <TZ>Europe/Rome</TZ>
+        </site>
+        <site>
+          <name>Vienna, Austria</name>
+          <latitude>N48:13</latitude>
+          <longitude>E16:22</longitude>
+          <TZ>CET</TZ>
+        </site>
+        <site>
+          <name>Zurich, Switzerland</name>
+          <latitude>N47:22</latitude>
+          <longitude>E8:32</longitude>
+          <TZ>Europe/Zurich</TZ>
+        </site>
+      </area>
+      <area name="East">
+        <site>
+          <name>Budapest, Hungary</name>
+          <latitude>N47:26</latitude>
+          <longitude>E19:15</longitude>
+          <TZ>Europe/Budapest</TZ>
+        </site>
+        <site>
+          <name>Moscow, Russia</name>
+          <latitude>N55:45</latitude>
+          <longitude>E37:37</longitude>
+          <TZ>Europe/Moscow</TZ>
+        </site>
+        <site>
+          <name>Prague, Czech Republic</name>
+          <latitude>N50:05</latitude>
+          <longitude>E14:24</longitude>
+          <TZ>Europe/Prague</TZ>
+        </site>
+        <site>
+          <name>Warsaw, Poland</name>
+          <latitude>N52:35</latitude>
+          <longitude>E21:05</longitude>
+          <TZ>Europe/Warsaw</TZ>
+        </site>
+      </area>
+  </zone>
+  <area name="Asia">
+    <site>
+      <name>Bangkok, Thailand</name>
+      <latitude>N13:50</latitude>
+      <longitude>E100:29</longitude>
+      <TZ>Asia/Bangkok</TZ>
+    </site>
+    <site>
+      <name>Beijing, China</name>
+      <latitude>N39:55</latitude>
+      <longitude>E116:23</longitude>
+      <TZ>PRC</TZ>
+    </site>
+    <site>
+      <name>Honk Kong, China</name>
+      <latitude>N21:45</latitude>
+      <longitude>E115:00</longitude>
+      <TZ>Asia/Hong_Kong</TZ>
+    </site>
+    <site>
+      <name>Manilla, Philippines</name>
+      <latitude>N14:37</latitude>
+      <longitude>E121:00</longitude>
+      <TZ>Asia/Manila</TZ>
+    </site>
+    <site>
+      <name>Seoul, South Korea</name>
+      <latitude>N37:35</latitude>
+      <longitude>E127:03</longitude>
+      <TZ>Asia/Seoul</TZ>
+    </site>
+    <site>
+      <name>Singapore</name>
+      <latitude>N1:22</latitude>
+      <longitude>E103:45</longitude>
+      <TZ>Asia/Singapore</TZ>
+    </site>
+    <site>
+      <name>Taipei, Taiwan</name>
+      <latitude>N25:02</latitude>
+      <longitude>E121:38</longitude>
+      <TZ>Asia/Taipei</TZ>
+    </site>
+    <site>
+      <name>Tokyo, Japan</name>
+      <latitude>N35:41</latitude>
+      <longitude>E139:44</longitude>
+      <TZ>Asia/Tokyo</TZ>
+    </site>
+  </area>
+  <area name="Caribbean Islands">
+    <site>
+      <name>Bridgetown, Barbados</name>
+      <latitude>N13:06</latitude>
+      <longitude>W59:37</longitude>
+      <TZ>America/Barbados</TZ>
+    </site>
+    <site>
+      <name>Castries, St Lucia</name>
+      <latitude>N14:01</latitude>
+      <longitude>W61:00</longitude>
+      <TZ>America/St_Lucia</TZ>
+    </site>
+    <site>
+      <name>Charlotte Amalie, USVI</name>
+      <latitude>N18:21</latitude>
+      <longitude>W64:56</longitude>
+      <TZ>America/Virgin</TZ>
+    </site>
+    <site>
+      <name>Georgetown, Grand Cayman</name>
+      <latitude>N19:20</latitude>
+      <longitude>W81:23</longitude>
+      <TZ>America/Cayman</TZ>
+    </site>
+    <site>
+      <name>Providenciales, Turks and Caicos</name>
+      <latitude>N21:28</latitude>
+      <longitude>W71:03</longitude>
+      <TZ>Etc/GMT+5</TZ>
+    </site>
+    <site>
+      <name>Kingston, Jamaica</name>
+      <latitude>N17:58</latitude>
+      <longitude>W76:48</longitude>
+      <TZ>America/Jamaica</TZ>
+    </site>
+    <site>
+      <name>Nassau, Bahamas</name>
+      <latitude>N25:03</latitude>
+      <longitude>W77:21</longitude>
+      <TZ>America/Nassau</TZ>
+    </site>
+    <site>
+      <name>Road Town, BVI</name>
+      <latitude>N18:25</latitude>
+      <longitude>W64:37</longitude>
+      <TZ>America/Virgin</TZ>
+    </site>
+    <site>
+      <name>Saint Johns, Antigua</name>
+      <latitude>N17:07</latitude>
+      <longitude>W61:51</longitude>
+      <TZ>America/Virgin</TZ>
+    </site>
+    <site>
+      <name>San Juan, PR</name>
+      <latitude>N18:25</latitude>
+      <longitude>W66:03</longitude>
+      <TZ>America/Puerto_Rico</TZ>
+    </site>
+  </area>  
+  <zone name="Latin America">
+    <area name="Central America">
+      <site>
+        <name>Mexico City, Mexico</name>
+        <latitude>N19:27</latitude>
+        <longitude>W99:08</longitude>
+        <TZ>America/Mexico_City</TZ>
+      </site>
+      <site>
+        <name>Cancun, Mexico</name>
+        <latitude>N21:26</latitude>
+        <longitude>W86:51</longitude>
+        <TZ>America/Mexico_City</TZ>
+      </site>
+      <site>
+        <name>San Jose, Costa Rica</name>
+        <latitude>N9:56</latitude>
+        <longitude>W58:26</longitude>
+        <TZ>America/Costa_Rica</TZ>
+      </site>  
+    </area>
+    <area name="South America">
+      <site>
+        <name>Buenos Aires, Argentina</name>
+        <latitude>S34:36</latitude>
+        <longitude>W58:26</longitude>
+        <TZ>America/Buenos_Aires</TZ>
+      </site>  
+      <site>
+        <name>Lima, Peru</name>
+        <latitude>S12:03</latitude>
+        <longitude>W77:03</longitude>
+        <TZ>America/Lima</TZ>
+      </site> 
+      <site>
+        <name>Santiago, Chile</name>
+        <latitude>S33:27</latitude>
+        <longitude>W70:33</longitude>
+        <TZ>America/Santiago</TZ>
+      </site>
+      <site>
+        <name>Sao Paulo, Brazil</name>
+        <latitude>S23:33</latitude>
+        <longitude>W46:35</longitude>
+        <TZ>America/Sao_Paulo</TZ>
+      </site>  
+    </area>
+  </zone>
+  <area name="Africa">
+    <site>
+      <name>Capetown, South Africa</name>
+      <latitude>S33:56</latitude>
+      <longitude>E18:22:15</longitude>
+      <TZ>Africa/Johannesburg</TZ>
+    </site>
+    <site>
+      <name>Nairobi, Kenya</name>
+      <latitude>S1:17</latitude>
+      <longitude>E36:49</longitude>
+      <TZ>Africa/Nairobi</TZ>
+    </site>
+  </area>
+  <area name="Middle East">
+    <site>
+      <name>Jerusalem, Israel</name>
+      <latitude>N31:47</latitude>
+      <longitude>E35:13</longitude>
+      <TZ>Asia/Jerusalem</TZ>
+    </site>
+  </area>
+</location>
