@@ -3,6 +3,12 @@ JStars
 
 JStars - A simple ephemeris program written in java.
 
+If don't want to build the project, a jar file can be found at http://florent.us/jstars/
+
+To run the project from the command line, go to the directory you downloaded the JStars.jar file and
+type the following:
+
+java -jar "JStars.jar" 
 
 LICENSE:
 This software is released under the GPL.
